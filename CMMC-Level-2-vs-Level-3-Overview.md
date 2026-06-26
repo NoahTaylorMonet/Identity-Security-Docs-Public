@@ -27,7 +27,6 @@ This document is informational. It does not constitute official guidance, legal 
 
 ## Greenfield work to move from L2 to L3 by architectural layer
 
-The lift assumes a competent L2 build is already in place.
 
 | Layer | L2 build | L3 adds | Lift | Notes |
 |---|---|---|---|---|
@@ -74,9 +73,9 @@ The lift assumes a competent L2 build is already in place.
 
 ---
 
-## Where greenfield does not help
+## L3 Program steps, not related to technical implementation, can be instituted when trying to achieve L3.
 
-| L3 area | Why it remains hard |
+| L3 area | Lift |
 |---|---|
 | Proactive hunt program | Requires analysts, cadence, and documented hypotheses. No tool installs this. |
 | Supply chain risk management | A department-level program, not a feature |
@@ -89,7 +88,7 @@ The lift assumes a competent L2 build is already in place.
 ---
 
 ## Lift summary
-
+Technical configuration is ideal, heavy lift of L3 is instituting the program, setting up technical configuration of L3 sets up for success.
 | Component | Build cost (greenfield) | Steady-state run cost |
 |---|---|---|
 | L3 architecture (technical configuration) | Low marginal cost above an L2 build | Modest |
