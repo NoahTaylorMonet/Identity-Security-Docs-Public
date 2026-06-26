@@ -4,6 +4,22 @@ A reference comparing CMMC 2.0 Level 2 and Level 3, including the marginal effor
 
 ---
 
+> ## Disclaimer
+>
+> **This document is informational only and does not constitute official guidance, legal advice, or a compliance attestation.** It is a high-level summary intended to support internal discussion and planning.
+>
+> CMMC requirements, assessment procedures, and Microsoft product capabilities change over time. The authoritative sources are:
+>
+> - 32 CFR Part 170 (CMMC Program rule)
+> - 48 CFR / DFARS 252.204-7012, 7019, 7020, 7021
+> - NIST SP 800-171 Rev. 2 and NIST SP 800-172
+> - The DoD-published CMMC Assessment Guides for the level being pursued
+> - Microsoft service documentation and Service Trust Portal
+>
+> Before making architecture, contractual, certification, or investment decisions based on this content, perform your own independent review and engage qualified compliance, legal, and security advisors. Nothing in this document should be interpreted as a guarantee that any specific configuration or architecture will satisfy a CMMC assessment.
+
+---
+
 ## Core comparison
 
 | Dimension | **Level 2** | **Level 3** |
@@ -111,4 +127,4 @@ The technical L3 deltas are small in greenfield. The programmatic L3 deltas are 
 
 ---
 
-*Reference document. Verify framework alignment against the current 32 CFR rule (CMMC 2.0) and the DoD-published assessment guides before relying on this for formal program planning.*
+*This document is provided "as is" with no warranty. It does not represent official Microsoft, DoD, or CMMC Accreditation Body guidance. Independent verification by qualified compliance and legal advisors is required before any reliance.*
