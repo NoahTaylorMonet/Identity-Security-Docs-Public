@@ -1,6 +1,6 @@
 # CMMC 2.0: Level 2 vs Level 3 Overview
 
-A reference comparing CMMC 2.0 Level 2 and Level 3, including the additional work required to architect and operate to Level 3 instead of Level 2 in a new (greenfield) cloud environment.
+A reference comparing CMMC 2.0 Level 2 and Level 3, including the additional work required to architect technically and operate to Level 3 instead of Level 2 in a new (greenfield) cloud environment.
 
 ## Disclaimer
 
